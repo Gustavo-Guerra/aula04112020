@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+main {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+section {
+    width: 20%;
+    height: 300px;
+    margin: 0 auto;
+}
